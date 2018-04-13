@@ -41,3 +41,12 @@ pip install numpy scipy pandas gensim nltk bs4
 </figure>
 </div>
 
+<div>
+<img src="http://placekitten.com/200/150">
+<p>This is the first picture. Maecenas id feugiat augue, a egestas eros. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+</div>
+<div class="fixed">
+<img src="http://placekitten.com/200/150">
+<p>This is the second picture, though it has fixed height.</p>
+</div>
+
