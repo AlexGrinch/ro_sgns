@@ -14,7 +14,7 @@ This repository implements [ACL 2017 Riemannian optimization for skip-gram negat
 
 ```
 pip install numpy pandas gensim nltk bs4 
-}
+```
 
 # Usage
 
