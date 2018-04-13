@@ -39,4 +39,4 @@ pip install numpy scipy pandas gensim nltk bs4
 </div>
 
 
-<p style="float: left; margin-right: 10%; margin-bottom: 10px; width: 50%;"><img src="/img/algorithm.png" alt="name the image">Caption goes here</p>
+<p style="float: left; margin-right: 10%; margin-bottom: 10px; width: 120px;"><img src="/img/algorithm.png" alt="name the image">Caption goes here</p>
