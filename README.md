@@ -31,18 +31,10 @@ pip install numpy scipy pandas gensim nltk bs4
 # Algorithm
 
 
-<div>
+<div style="width: 40%;">
 <figure>
 <img src="/img/ro.png" width="40%" hspace="7%">
 <img src="/img/algorithm.png" width="40%">
 </figure>
 </div>
 
-<div class="container" style="width: 45%;">
- <div class="theme-table-image col-sm-6">
-   <img src="/img/ro.png">
- </div>
- <div class="theme-table-image col-sm-6">
-   <img src="/img/ro.png">
- </div>
-</div>
