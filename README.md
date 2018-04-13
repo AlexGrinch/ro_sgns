@@ -16,7 +16,7 @@ This repository implements [ACL 2017 Riemannian optimization for skip-gram negat
   <figure>
     <p align="center">
     <img src="/img/corr_results.png" width="80%">
-    <figcaption>Table 1. - Comparison of the methods in terms of the semantic similarity task. Each entry represents the Spearman’s correlation between predicted similarities and the manually assessed ones.</figcaption>
+    <figcaption>Table 1: Comparison of the methods in terms of the semantic similarity task. Each entry represents the Spearman’s correlation between predicted similarities and the manually assessed ones.</figcaption>
       </p>
   </figure>
 
