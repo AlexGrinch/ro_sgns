@@ -12,6 +12,7 @@ This repository implements [ACL 2017 Riemannian optimization for skip-gram negat
 
 # Usage
 
-Download [enwik9](http://mattmahoney.net/dc/enwik9.zip) dataset and preprocess raw data with Perl script main_.pl. Run IPython notebook [enwik_experiments.ipynb](enwik_experiments.ipynb).
+- Download [enwik9](http://mattmahoney.net/dc/enwik9.zip) dataset and preprocess raw data with Perl script [main_.pl](main_.pl). 
+- Run IPython notebook [enwik_experiments.ipynb](enwik_experiments.ipynb).
 
 
