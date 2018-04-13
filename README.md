@@ -31,8 +31,6 @@ pip install numpy scipy pandas gensim nltk bs4
 # Algorithm
 
 <figure>
-<p align="center">
 <img src="/img/ro.png" width="80%">
   <figcaption> <b> Figure. </b> Geometric interpretation of one step of RO. </figcaption>
-</p>
 </figure>
