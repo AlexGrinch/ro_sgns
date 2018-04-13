@@ -30,17 +30,6 @@ pip install numpy scipy pandas gensim nltk bs4
 
 # Algorithm
 
-
-<div>
-<figure>
-<img src="/img/ro.png" width="40%" hspace="7%">
-</figure>
-<figure>
-<img src="/img/algorithm.png" width="40%">
-</figure>
-</div>
-
-
-| [![VideoBlocks](/img/algorithm.png)](http://videoblocks.com)  | [![AudioBlocks](/img/ro.png)](http://audioblocks.com) |
+| [![algorithm](/img/algorithm.png)](http://videoblocks.com)  | [![geometric](/img/ro.png)](http://audioblocks.com) |
 |:---:|:---:|
-| **Figure 1.** Algorithm  | http://audioblocks.com|
+| **Figure 1.** Riemannian optimization for skip-gram negative sampling (RO-SGNS) algorithm  | **Figure 2.** Geometric interpretation of one step of Riemannain optimization.|
