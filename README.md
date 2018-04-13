@@ -10,8 +10,27 @@ This repository implements [ACL 2017 Riemannian optimization for skip-gram negat
 }
 ```
 
+# Prerequisits
+
+- [numpy](http://www.numpy.org)
+- [scipy](https://www.scipy.org)
+- [pandas](https://pandas.pydata.org)
+- [gensim](https://radimrehurek.com/gensim/)
+- [nltk](https://www.nltk.org)
+- [bs4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+
+```
+pip install numpy scipy pandas gensim nltk bs4 
+```
+
 # Usage
 
-Download [enwik9](http://mattmahoney.net/dc/enwik9.zip) dataset and preprocess raw data with Perl script main_.pl. Run IPython notebook [enwik_experiments.ipynb](enwik_experiments.ipynb).
+- Download [enwik9](http://mattmahoney.net/dc/enwik9.zip) dataset and preprocess raw data with Perl script [main_.pl](main_.pl). 
+- Run IPython notebook [enwik_experiments.ipynb](enwik_experiments.ipynb).
 
+# Algorithm
+
+<p align="center">
+<img src="/img/ro.png" width="80%">
+</p>
 
