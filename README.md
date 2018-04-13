@@ -38,4 +38,4 @@ pip install numpy scipy pandas gensim nltk bs4
 
 |![corr](/img/corr_results.png) | ![neighbors](/img/neighbors_results.png)
 |:---:|:---:|
-|**Table 1.** Spearman’s correlation between predicted similarities and the manually assesed ones. | **Table 2.** Examples of the semantic neighbors for “usa”.|
+|**Table 1.** Spearman’s correlation between predicted similarities and the manually assesed ones. | **Table 2.** Examples of the semantic neighbors for the word <b>usa</b>.|
