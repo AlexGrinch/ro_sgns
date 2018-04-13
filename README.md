@@ -40,8 +40,8 @@ pip install numpy scipy pandas gensim nltk bs4
 </figure>
 </div>
 
-<div style="max-width:200px>
+
             <p>
 tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
             </p>
-</div>
+
