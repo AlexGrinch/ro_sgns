@@ -41,6 +41,6 @@ pip install numpy scipy pandas gensim nltk bs4
 </div>
 
 
-| [![VideoBlocks](/img/algorithm.png)](http://videoblocks.com)  | [![AudioBlocks](https://dtyn3c8zjrx01.cloudfront.net/img/assets/audioblocks/images/logo.png)](http://audioblocks.com) |
+| [![VideoBlocks](/img/algorithm.png)](http://videoblocks.com)  | [![AudioBlocks](ro.png)](http://audioblocks.com) |
 |:---:|:---:|
 | http://videoblocks.com | http://audioblocks.com|
