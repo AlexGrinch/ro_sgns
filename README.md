@@ -38,4 +38,11 @@ pip install numpy scipy pandas gensim nltk bs4
 </figure>
 </div>
 
-
+<div class="container" style="width: 100%;">
+ <div class="theme-table-image col-sm-6">
+   <img src="/img/ro.png">
+ </div>
+ <div class="theme-table-image col-sm-6">
+   <img src="/img/ro.png">
+ </div>
+</div>
