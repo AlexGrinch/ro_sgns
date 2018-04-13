@@ -30,6 +30,6 @@ pip install numpy scipy pandas gensim nltk bs4
 
 # Algorithm
 
- [![algorithm](/img/algorithm.png)](http://videoblocks.com)  | [![geometric](/img/ro.png)](http://audioblocks.com) 
-:---:|:---:
- **Figure 1.** Riemannian optimization for skip-gram negative sampling (RO-SGNS) algorithm  | **Figure 2.** Geometric interpretation of one step of Riemannain optimization procedure: the point is first projected onto the tangent space and then retracted to the manifold.
+ [![algorithm](/img/algorithm.png)](http://videoblocks.com)   [![geometric](/img/ro.png)](http://audioblocks.com) 
+:---: :---:
+ **Figure 1.** Riemannian optimization for skip-gram negative sampling (RO-SGNS) algorithm   **Figure 2.** Geometric interpretation of one step of Riemannain optimization procedure: the point is first projected onto the tangent space and then retracted to the manifold.
