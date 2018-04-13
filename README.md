@@ -31,6 +31,6 @@ pip install numpy scipy pandas gensim nltk bs4
 # Algorithm
 
 <p align="center">
-<img src="/img/ro.eps" width="80%">
+<img src="/img/ro.png" width="80%">
 </p>
 
