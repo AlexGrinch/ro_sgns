@@ -34,7 +34,6 @@ pip install numpy scipy pandas gensim nltk bs4
 <div>
 <figure>
 <img src="/img/ro.png" width="40%" hspace="7%">
-  <figcaption> lal </figcaption>
 </figure>
 <figure>
 <img src="/img/algorithm.png" width="40%">
