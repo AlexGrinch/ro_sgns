@@ -34,6 +34,7 @@ pip install numpy scipy pandas gensim nltk bs4
 <div>
 <figure>
 <img src="/img/ro.png" width="40%" hspace="7%">
+  <figcaption><b>Figure 1.</b> Geometric interpretation of one step of Riemannian optimization.</figcaption>
 </figure>
 <figure>
 <img src="/img/algorithm.png" width="40%">
