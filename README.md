@@ -21,7 +21,7 @@ This repository implements [ACL 2017 Riemannian optimization for skip-gram negat
 </figure>
 
 <figure>
-  <p align="center">
+  <p align="center" style="width:50%">
     <img src="/img/corr_results.png" width="80%">
     <figcaption>Table 2: Examples of the semantic neighbors obtained for the word “usa” by all three methods.</figcaption>
   </p>
