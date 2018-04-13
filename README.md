@@ -28,4 +28,9 @@ pip install numpy scipy pandas gensim nltk bs4
 - Download [enwik9](http://mattmahoney.net/dc/enwik9.zip) dataset and preprocess raw data with Perl script [main_.pl](main_.pl). 
 - Run IPython notebook [enwik_experiments.ipynb](enwik_experiments.ipynb).
 
+# Algorithm
+
+<p align="center">
+<img src="/img/ro.eps" width="80%">
+</p>
 
