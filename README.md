@@ -25,8 +25,27 @@ pip install numpy scipy pandas gensim nltk bs4
 
 # Usage
 
+- Clone **ro_sgns** repostirtory:
+
+```
+git clone https://github.com/AlexGrinch/ro_sgns.git
+cd ro_sgns
+```
+
 - Download [enwik9](http://mattmahoney.net/dc/enwik9.zip) dataset and preprocess raw data with Perl script [main_.pl](main_.pl). 
+
+```
+wget http://mattmahoney.net/dc/enwik9.zip
+unzip enwik9.zip
+mkdir data
+perl main_.pl enwik9 > data/enwik9.txt
+```
+
 - Run IPython notebook [enwik_experiments.ipynb](enwik_experiments.ipynb).
+
+```
+jupyter notebook enwik_experiments.ipynb
+```
 
 # Algorithm
 
